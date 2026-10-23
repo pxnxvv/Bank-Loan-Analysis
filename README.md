@@ -1,4 +1,4 @@
-# Bank-Loan-Analysis
+# Bank-Loan-Analysis-SQL
 Bank loan analysis using MySQL to explore customer demographics, loan portfolios, payment records, and default risk.
 Project Overview
 This project uses MySQL to analyze customer demographics, loan portfolios, loan statuses, and payment records. It demonstrates fundamental SQL queries used to explore banking data and identify useful business insights.
